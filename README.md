@@ -83,30 +83,12 @@ A collection of C++ programs implementing fundamental **Data Structures**, **Sea
 ## 🛠 Requirements
 
 - C++11 or later
-- GCC / G++
-- Clang++
 - Visual Studio
 - VS Code (Recommended)
 
 ---
 
 ## ▶️ Compile & Run
-
-### Using g++
-
-```bash
-g++ filename.cpp -o output
-./output
-```
-
-### Using clang++
-
-```bash
-clang++ filename.cpp -o output
-./output
-```
-
-Example:
 
 ```bash
 g++ bubble_sort.cpp -o bubble
